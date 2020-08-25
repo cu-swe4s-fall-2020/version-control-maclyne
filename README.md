@@ -1,2 +1,2 @@
-# version_control
+# version-control
 Get familiar with version control basics
