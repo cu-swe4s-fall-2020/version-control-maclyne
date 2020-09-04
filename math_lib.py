@@ -4,3 +4,7 @@ def div(a, b):
     else:
         print("Warning: divide by zero, returns None")
         return None
+
+
+def add(a, b):
+    return a + b
